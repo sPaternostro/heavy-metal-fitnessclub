@@ -1,6 +1,7 @@
 body {
-  font-family: 'Josefin Sans';
+  font-family: 'Noto Serif Ahom', serif;
   background-color: #FFFAFB;
+  max-width: 100%;
 }
 
 * {
